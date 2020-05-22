@@ -1,0 +1,819 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<AnnualTotals>
+<YearofIssue>2007</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>52809</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2007</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>1877</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2007</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>108035</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2007</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>55744</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2007</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>71263</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2007</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>263218</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2007</YearofIssue>
+<PassportType>10 YEAR, OVER 65</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>12149</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2007</YearofIssue>
+<PassportType>10 YEAR, OVER 65</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>36681</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2007</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>397</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2007</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>2888</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2007</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>36</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2007</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>1853</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2007</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>2420</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2007</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>10145</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2008</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>55921</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2008</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>1739</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2008</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>88961</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2008</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>50279</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2008</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>62932</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2008</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>265216</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2008</YearofIssue>
+<PassportType>10 YEAR, OVER 65</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>12207</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2008</YearofIssue>
+<PassportType>10 YEAR, OVER 65</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>33710</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2008</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>402</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2008</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>2934</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2008</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>45</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2008</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>2279</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2008</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>1488</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2008</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>7884</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2009</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>52287</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2009</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>1888</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2009</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>59220</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2009</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>79646</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2009</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>48037</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2009</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>281424</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2009</YearofIssue>
+<PassportType>10 YEAR, OVER 65</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>10890</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2009</YearofIssue>
+<PassportType>10 YEAR, OVER 65</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>34777</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2009</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>379</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2009</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>2705</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2009</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>40</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2009</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>1556</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2009</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>1239</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2009</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>7607</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2010</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>51947</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2010</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>2255</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2010</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>44817</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2010</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>117983</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2010</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>37253</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2010</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>299242</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2010</YearofIssue>
+<PassportType>10 YEAR, OVER 65</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>9159</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2010</YearofIssue>
+<PassportType>10 YEAR, OVER 65</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>37177</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2010</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>372</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2010</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>2532</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2010</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>24</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2010</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>1087</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2010</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>832</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2010</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>6986</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2011</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>52611</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2011</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>2707</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2011</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>38995</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2011</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>129455</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2011</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>34396</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2011</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>295962</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2011</YearofIssue>
+<PassportType>10 YEAR, OVER 65</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>5086</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2011</YearofIssue>
+<PassportType>10 YEAR, OVER 65</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>35794</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2011</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>554</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2011</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>2570</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2011</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>25</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2011</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>1434</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2011</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>455</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2011</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>4893</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2012</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>55041</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2012</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>2385</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2012</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>42380</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2012</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>139679</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2012</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>42043</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2012</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>302933</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2012</YearofIssue>
+<PassportType>10 YEAR, OVER 65</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>3056</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2012</YearofIssue>
+<PassportType>10 YEAR, OVER 65</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>39333</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2012</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>837</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2012</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>2720</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2012</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>37</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2012</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>1629</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2012</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>254</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2012</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>3273</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2013</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>52967</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2013</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>2328</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2013</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>43917</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2013</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>146261</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2013</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>43379</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2013</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>295564</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2013</YearofIssue>
+<PassportType>10 YEAR, OVER 65</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>3031</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2013</YearofIssue>
+<PassportType>10 YEAR, OVER 65</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>41464</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2013</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>314</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2013</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>1414</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2013</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>29</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2013</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>1418</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2013</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>197</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2013</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>2352</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2014</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>50805</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2014</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>2252</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2014</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>40786</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2014</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>145877</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2014</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>40105</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2014</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>325919</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2014</YearofIssue>
+<PassportType>10 YEAR, OVER 65</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>892</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2014</YearofIssue>
+<PassportType>10 YEAR, OVER 65</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>17847</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2014</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>545</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2014</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>2884</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2014</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>29</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2014</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>1518</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2014</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>208</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2014</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>2489</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2015</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>52724</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2015</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>2435</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2015</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>40478</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2015</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>161018</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2015</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>36998</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2015</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>371273</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2015</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>368</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2015</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>3079</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2015</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>8</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2015</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>1594</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2015</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>139</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2015</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>2646</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2016</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>55768</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2016</YearofIssue>
+<PassportType>3 YEAR, UNDER 3</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>2629</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2016</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>43818</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2016</YearofIssue>
+<PassportType>5 YEAR, OVER 3 UNDER 18</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>168975</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2016</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>57654</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2016</YearofIssue>
+<PassportType>STANDARD 10 YEAR</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>396890</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2016</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>575</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2016</YearofIssue>
+<PassportType>LARGE 10 YEAR 66 PAGE</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>3120</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2016</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>4</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2016</YearofIssue>
+<PassportType>DIPLOMATIC / OFFICIAL</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>1983</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2016</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>1st Time Applicant</ApplicantType>
+<TotalIssued>107</TotalIssued>
+</AnnualTotals>
+<AnnualTotals>
+<YearofIssue>2016</YearofIssue>
+<PassportType>TEMPORARY</PassportType>
+<ApplicantType>Renewal Applicant</ApplicantType>
+<TotalIssued>1674</TotalIssued>
+</AnnualTotals>
+</Catalog>

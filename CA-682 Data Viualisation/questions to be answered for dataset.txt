@@ -1,0 +1,30 @@
+Project Title or Headline 
+ 
+Abstract (max 200 words) 
+What is the question or story you are trying to tell? 
+What is the conclusion that you reached? 
+ 
+1. Dataset [½ page] 
+Where/how did you retrieve it or them
+ Describe the data - size (GB or attributes), number of rows, attributes, data types present 
+What aspects (if any) of big data (volume, variety, velocity) are present in your data 
+ 
+2. Data Exploration, Processing, Cleaning and/or Integration [½ page] 
+What did you need to do to prepare the dataset(s) to create your graph/chart? '
+How did you choose the attributes to visualise? 
+ 
+3. Visualisation [½-1 page] 
+Screenshot or image of visualisation 
+Explain your choice of chart or graph type - what relationship or data type are you showing? 
+Design choices - justify your use of colour, shapes, marks, layout, structure, font, labels
+ Any interactivity or animation and how it helps answer your question
+ List of tools or libraries used 
+ 
+4. Conclusion [½ page] 
+Critically analyse the outcome of your visualisation. 
+Were there aspects that you think could be improved upon?
+ Were there effects or functionality that you were technically unable to achieve? 
+ 
+References Include any citation of the dataset 
+Include links to any tutorial or example that contributed significantly to your work
+ Include any articles or web resources supporting your design choices 

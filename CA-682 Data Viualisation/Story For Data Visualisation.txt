@@ -1,0 +1,22 @@
+I got the dataset from Kaggle Website. I choose this topic because I wanted to see and get answers through visualizations which
+ regions, country, and the attack types are done that are affecting the world from a period of 1970-2017. 
+
+
+Firstly, I created a "Line Graph" which depicts the number of kills from the year 1970-2020 and the line is plotted for various regions around the world 
+From the visualization, it can be seen that Middle East & North Africa region and Sub-Saharan region were the most affected regions in the terms of number of killings 
+after 2010.
+
+For the second graph, I Created a "Treemap" which shows yearly killings in a country after the year 2000.
+from the visualization, it can be seen that the most affected countries from terrorism after the year 2000 are Iraq and Afghanistan which have the most number of killings. 
+And we can see in the line graph visualization, The middle east region is most affected by terrorism and Iraq falls Under That.
+We can filter the years from the right side to get a particular number of killings for that year and for a specific country. Example if we select the  year 2001,
+ The United States has the most killings because in that year 9/11 attacks happened.
+
+
+And lastly, I created a "Word Cloud" that visualizes what were the attack types in th4ese terrorist activities.
+ The most number of killings for a particular attack type which can be seen as which text is bigger is Armed Assault then Bombing /Explosion and then hostage(kidnapping).
+
+
+Thank you so much for Listening.
+
+

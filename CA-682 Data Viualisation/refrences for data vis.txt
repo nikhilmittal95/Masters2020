@@ -1,0 +1,2 @@
+https://www.kaggle.com/gpreda/global-terrorist-attacks
+https://www.kaggle.com/START-UMD/gtd
