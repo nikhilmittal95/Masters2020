@@ -1,0 +1,26 @@
+INSERT OVERWRITE  DIRECTORY '/home/nikhil_mittal2/output10/'
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ':'
+Select * from posts where OwnerUserId = '39677';
+
+
+
+hadoop fs -ls /home/nikhil_mittal2/output10/
+
+hadoop jar /home/nikhil_mittal2/hadoop-streaming-3.2.1.jar -file /home/nikhil_mittal2/mapper1.py -mapper /home/nikhil_mittal2/mapper1.py -file /home/nikhil_mittal2/reducer1.py -reducer /home/nikhil_mittal2/reducer1.py -input /home/nikhil_mittal2/output10/000007_0 -output /tfoutput91/
+
+
+
+
+
+
+hadoop jar /home/nikhil_mittal2/hadoop-streaming-3.2.1.jar -file /home/nikhil_mittal2/mapper2.py -mapper /home/nikhil_mittal2/mapper2.py -file /home/nikhil_mittal2/reducer2.py -reducer /home/nikhil_mittal2/reducer2.py -input /tfoutput91/ -output /tfoutput92/
+hadoop jar /home/nikhil_mittal2/hadoop-streaming-3.2.1.jar -file /home/nikhil_mittal2/mapper3.py -mapper /home/nikhil_mittal2/mapper3.py -file /home/nikhil_mittal2/reducer3.py -reducer /home/nikhil_mittal2/reducer3.py -input /tfoutput92/ -output /tfoutput93/
+
+hadoop jar  /home/nikhil_mittal2/hadoop-streaming-3.2.1.jar -numReduceTasks 0 -file /home/nikhil_mittal2/mapper4.py -mapper /home/nikhil_mittal2/mapper4.py -input /tfoutput93/ -output /tfoutput94/
+
+
+hdfs dfs -cat /tfoutput94/* |sort -k2 -r|head -10
+
+
+(Done Same for the 10 users with different userid and saving them in different cluster like in '/home/nikhil_mittal2/output6/') 

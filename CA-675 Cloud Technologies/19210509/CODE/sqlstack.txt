@@ -1,0 +1,4 @@
+select top 50000 * from posts where posts.ViewCount > 28534 order by posts.ViewCount DESC
+select top 50000 * FROM posts WHERE posts.ViewCount > 86500 ORDER BY posts.ViewCount DESC
+select top 50000 * from posts order by ViewCount desc;
+select top 50000 * from posts where ViewCount <=  96840 (last ViewCount of 50000th data) and id not in ('5117251') order by ViewCount desc

@@ -1,0 +1,18 @@
+CSV1 = LOAD 'A.csv' USING org.apache.pig.piggybank.storage.CSVExcelStorage(',', 'YES_MULTILINE', 'UNIX', 'SKIP_INPUT_HEADER') as (Id:int,PostTypeId:int,AcceptedAnswerId:int,ParentId:int,CreationDate:datetime,DeletionDate:datetime,Score:int,ViewCount:int,Body:chararray,OwnerUserId:int,OwnerDisplayName:chararray,LastEditorUserId:int,LastEditorDisplayName:chararray,LastEditDate:datetime,LastActivityDate:datetime,Title:chararray,Tags:chararray,AnswerCount:int,CommentCount:int,FavoriteCount:int,ClosedDate:datetime,CommunityOwnedDate:datetime);
+CSV2 = LOAD 'B.csv' USING org.apache.pig.piggybank.storage.CSVExcelStorage(',', 'YES_MULTILINE', 'UNIX', 'SKIP_INPUT_HEADER') as (Id:int,PostTypeId:int,AcceptedAnswerId:int,ParentId:int,CreationDate:datetime,DeletionDate:datetime,Score:int,ViewCount:int,Body:chararray,OwnerUserId:int,OwnerDisplayName:chararray,LastEditorUserId:int,LastEditorDisplayName:chararray,LastEditDate:datetime,LastActivityDate:datetime,Title:chararray,Tags:chararray,AnswerCount:int,CommentCount:int,FavoriteCount:int,ClosedDate:datetime,CommunityOwnedDate:datetime);
+CSV3 = LOAD 'C.csv' USING org.apache.pig.piggybank.storage.CSVExcelStorage(',', 'YES_MULTILINE', 'UNIX', 'SKIP_INPUT_HEADER') as (Id:int,PostTypeId:int,AcceptedAnswerId:int,ParentId:int,CreationDate:datetime,DeletionDate:datetime,Score:int,ViewCount:int,Body:chararray,OwnerUserId:int,OwnerDisplayName:chararray,LastEditorUserId:int,LastEditorDisplayName:chararray,LastEditDate:datetime,LastActivityDate:datetime,Title:chararray,Tags:chararray,AnswerCount:int,CommentCount:int,FavoriteCount:int,ClosedDate:datetime,CommunityOwnedDate:datetime);
+CSV4 = LOAD 'D.csv' USING org.apache.pig.piggybank.storage.CSVExcelStorage(',', 'YES_MULTILINE', 'UNIX', 'SKIP_INPUT_HEADER') as (Id:int,PostTypeId:int,AcceptedAnswerId:int,ParentId:int,CreationDate:datetime,DeletionDate:datetime,Score:int,ViewCount:int,Body:chararray,OwnerUserId:int,OwnerDisplayName:chararray,LastEditorUserId:int,LastEditorDisplayName:chararray,LastEditDate:datetime,LastActivityDate:datetime,Title:chararray,Tags:chararray,AnswerCount:int,CommentCount:int,FavoriteCount:int,ClosedDate:datetime,CommunityOwnedDate:datetime);
+
+
+project = UNION CSV1,CSV2,CSV3,CSV4;
+
+
+
+cleaned = FOREACH project GENERATE  Id AS Id, Score AS Score, REPLACE(Body,',*','') AS Body, OwnerUserId AS OwnerUserId, REPLACE(Title,',*','') AS Title, REPLACE(Tags,',*','') AS Tags;
+newclean = FOREACH cleaned GENERATE  Id AS Id, Score AS Score, REPLACE(Body,'\n*','') AS Body, OwnerUserId AS OwnerUserId, REPLACE(Title,'\n*','') AS Title, REPLACE(Tags,'\n*','') AS Tags;
+newclean2 = FOREACH newclean GENERATE  Id AS Id, Score AS Score, REPLACE(Body,'<.*?>','') AS Body, OwnerUserId AS OwnerUserId, REPLACE(Title,'<.*?>','') AS Title, Tags AS Tags;
+
+
+newclean3 = FILTER newclean2 BY (OwnerUserId IS NOT NULL) AND (Score IS NOT NULL);
+
+STORE newclean3 INTO '/output1/' USING org.apache.pig.piggybank.storage.CSVExcelStorage(',');

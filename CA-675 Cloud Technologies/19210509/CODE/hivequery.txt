@@ -1,0 +1,30 @@
+create table posts(Id int, Score int, Body String, OwnerUserId Int, Title String, Tags String) 
+row format delimited 
+FIELDS TERMINATED BY ',';
+
+LOAD DATA INPATH '/output1/*' INTO TABLE posts;
+
+
+SET hive.cli.print.header=true;
+
+show tables;
+
+describe posts;
+
+select * from posts LIMIT 5;
+
+
+
+SELECT Id, Title, Score FROM posts 
+ORDER BY Score DESC LIMIT 10;
+
+
+SELECT OwnerUserId, SUM(Score) AS TotalScore
+FROM posts
+GROUP BY OwnerUserId
+ORDER BY TotalScore DESC LIMIT 10;
+
+
+SELECT COUNT(DISTINCT OwnerUserId)
+FROM posts
+WHERE (body LIKE '%hadoop%' OR title LIKE '%hadoop%' OR tags LIKE '%hadoop%')
